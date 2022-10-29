@@ -1,0 +1,3 @@
+﻿  win32_platform.cpp
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\Game_cpp\win32_platform.cpp(51,5): warning C4007: WinMain: musí být: __stdcall.
+  Game_cpp.vcxproj -> C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\Game_cpp\Debug\Game_cpp.exe
